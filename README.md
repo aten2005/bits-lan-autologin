@@ -1,7 +1,3 @@
-Here’s the updated README with a section on packaging the script into an executable:
-
----
-
 # BITS LAN AutoLogin
 
 This script automates the login process for the BITS Hyderabad campus LAN network, eliminating the need for manual sign-in.
